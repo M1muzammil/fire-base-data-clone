@@ -1,0 +1,31 @@
+/* *{
+    background-color: rgb(40, 149, 222);
+    color: aliceblue;
+} */
+
+.nav>p{
+    margin: 10px;
+}
+.nav{
+display: flex;
+justify-content: space-between;
+background-color: rgba(143, 116, 35, 0.756);
+/* margin-left: 5px;
+margin-right: 5px; */
+}
+.p1{
+    background-color: rgb(155, 155, 163);
+    width: 90px;
+    margin-bottom: 20px;
+}
+.div1{background-color: rgb(53, 123, 184);
+/* width: 450px; */
+
+
+}
+h1{
+    border: 2px double white;
+    border-radius:2.1875em 0em;
+    margin-top: 5px;
+    overflow: hidden;
+}
